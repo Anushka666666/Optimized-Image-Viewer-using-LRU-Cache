@@ -1,0 +1,5 @@
+ Dependencies
+
+- Python 
+- Tkinter (comes pre-installed with Python, on Linux install via: "sudo apt-get install python3-tk")
+- Pillow (Python Imaging Library fork)
