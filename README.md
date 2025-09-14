@@ -8,9 +8,4 @@ The cache ensures that recently accessed images are stored in memory for faster 
 - ⚡ Optimized with "LRU cache" (default: last 5 images stored in memory)
 - 🖼️ Supports multiple formats: .png, .jpg, .jpeg, .gif
 
-📦 Dependencies
-
-- Python 
-- Tkinter (comes pre-installed with Python, on Linux install via: "sudo apt-get install python3-tk")
-- Pillow (Python Imaging Library fork)
 
