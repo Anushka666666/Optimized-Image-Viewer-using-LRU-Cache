@@ -3,9 +3,9 @@
 The cache ensures that recently accessed images are stored in memory for faster navigation, improving performance when browsing large image folders.
 
 🚀 Features
-- 📂 Select a folder containing images
-- ⏩ Navigate with "Next" / "Previous" buttons
-- ⚡ Optimized with "LRU cache" (default: last 5 images stored in memory)
-- 🖼️ Supports multiple formats: .png, .jpg, .jpeg, .gif
+-  Select a folder containing images
+-  Navigate with "Next" / "Previous" buttons
+-  Optimized with "LRU cache" (default: last 5 images stored in memory)
+-  Supports multiple formats: .png, .jpg, .jpeg, .gif
 
 
